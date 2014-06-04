@@ -1,0 +1,13 @@
+  ...  ...
+  519  ls
+  520  ls
+  521  ls
+  522  ls
+  523  ls
+  524  ls
+  525  ls
+  526  mkdir histoscript
+  527  cd histoscript/
+  528  touch script-from-history.sh
+  529  ls
+  530  ls -l
